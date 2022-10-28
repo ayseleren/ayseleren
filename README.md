@@ -18,6 +18,11 @@ Salesforce Developer</h1><br/>
  <h2> Superbadges:</h3></br>
  <lu/>
   <li><a href="https://trailblazer.me/id/ayselt">Business Administration Specialist</a></li>
+  <li><a href="https://trailblazer.me/id/ayselt">Data Integration Specialist</a></li>
+  <li><a href="https://trailblazer.me/id/ayselt">Admin Super Set</a></li>
+  <li><a href="https://trailblazer.me/id/ayselt">Process Automation Specialist</a></li>
+  <li><a href="https://trailblazer.me/id/ayselt">Apex Specialist</a></li>
+  <li><a href="https://trailblazer.me/id/ayselt">Developer Super Set</a></li>
   <li><a href="https://trailblazer.me/id/ayselt">Lightning Experience Reports & Dashboards Specialist</a></li>
   <li><a href="https://trailblazer.me/id/ayselt">Security Specialist</a></li>
  </lu>
